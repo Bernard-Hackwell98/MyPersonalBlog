@@ -9,11 +9,11 @@ export default async function Home() {
   return (
     
     <div>
-      <h1 className="text-4xl font-extrabold">Hello I'm <span className="bg-gradient-to-r from-orange-400 via-red-600 to-purple-700 bg-clip-text text-transparent"> Hammad</span>
+      <h1 className="text-4xl font-extrabold">Hello I am <span className="bg-gradient-to-r from-orange-400 via-red-600 to-purple-700 bg-clip-text text-transparent"> Hammad</span>
       
       </h1>
 
-      <p className="mt-3 text-xl text-gray-600">Welcome to my test blog built using Sanity, Tailwind, NextJs and Typescript. I wont post anything here It's just a way to showcase My skills</p>
+      <p className="mt-3 text-xl text-gray-600">Welcome to my test blog built using Sanity, Tailwind, NextJs and Typescript. I wont post anything here It&apos;s just a way to showcase My skills</p>
 
       <h2 className="mt-24 font-bold text-gray-700 text-3xl">My projects</h2>
 
